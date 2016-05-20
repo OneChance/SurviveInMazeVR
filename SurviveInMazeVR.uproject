@@ -1,9 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.11",
+	"EngineAssociation": "4.12",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
+		{
+			"Name": "GearVR",
+			"Enabled": false
+		},
 		{
 			"Name": "OculusInput",
 			"Enabled": false
@@ -15,6 +19,10 @@
 		{
 			"Name": "OculusRift",
 			"Enabled": false
+		},
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true
 		},
 		{
 			"Name": "SteamVR",
