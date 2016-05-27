@@ -25,7 +25,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GoogleVRHMD",
+			"Name": "SimpleHMD",
 			"Enabled": true
 		}
 	]
