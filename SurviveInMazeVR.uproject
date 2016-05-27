@@ -21,12 +21,12 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SimpleHMD",
-			"Enabled": true
-		},
-		{
 			"Name": "SteamVR",
 			"Enabled": false
+		},
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
 		}
 	]
 }
